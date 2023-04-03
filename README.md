@@ -1,0 +1,2 @@
+# Atmospheric RF Discharge Plasma DNNs Model Based on PIC-MCC
+A fully connected DNNs model is developed to explore the frequency effects of atmospheric RF discharge plasma. Based on this DNNs model, the electric field distribution, electron density distribution, EEDFs and other properties of the atmospheric RF discharge plasma can be quickly predicted. The computational results show that DNNs can characterize the kinetics of atmospheric pressure RF discharge plasma with high accuracy and computational efficiency.
